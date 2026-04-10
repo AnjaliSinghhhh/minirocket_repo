@@ -24,25 +24,27 @@ feature count, and first-order differences on classification accuracy.
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
+
+```
 minirocket-reproduction/
-
-├── notebook.ipynb              ← Full Kaggle notebook with all experiments
-
+│
+├── notebook.ipynb                        ← Full Kaggle notebook
+│
 ├── results/
-    ├── results_baseline.csv          ← Baseline accuracy across 8 datasets
-│   ├── results_classifiers.csv       ← Classifier comparison results
-│   ├── results_kernel_sizes.csv      ← Kernel size experiment results
-│   └── results_first_differences.csv ← First differences experiment results
+│   ├── results_baseline.csv             ← Baseline accuracy
+│   ├── results_classifiers.csv          ← Classifier comparison
+│   ├── results_kernel_sizes.csv         ← Kernel size experiment
+│   └── results_first_differences.csv   ← First differences
 │
 ├── figures/
-│   ├── fig1_baseline.png             ← Baseline benchmark bar chart
-│   ├── fig2_kernels.png              ← Kernel size line plot
-│   ├── fig3_differences.png          ← First differences accuracy change
-│   └── fig4_classifiers.png          ← Classifier comparison
+│   ├── fig1_baseline.png
+│   ├── fig2_kernels.png
+│   ├── fig3_differences.png
+│   └── fig4_classifiers.png
 │
 └── README.md
----
+```
 
 ##  How to Reproduce
 
