@@ -151,3 +151,7 @@ small training sets.
 
 *Original MiniRocket code by Angus Dempster — 
 https://github.com/angus924/minirocket*
+
+## 🔗 Live Notebook
+
+View the full notebook on Kaggle: [MiniRocket Reproduction Notebook](https://www.kaggle.com/code/anjaliiiiisingh/time-series-minirocket-research-py/edit/run/310600120)
