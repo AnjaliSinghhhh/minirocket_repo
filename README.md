@@ -26,11 +26,11 @@ feature count, and first-order differences on classification accuracy.
 
 ##  Repository Structure
 minirocket-reproduction/
-│
+
 ├── notebook.ipynb              ← Full Kaggle notebook with all experiments
-│
+
 ├── results/
-│   ├── results_baseline.csv          ← Baseline accuracy across 8 datasets
+    ├── results_baseline.csv          ← Baseline accuracy across 8 datasets
 │   ├── results_classifiers.csv       ← Classifier comparison results
 │   ├── results_kernel_sizes.csv      ← Kernel size experiment results
 │   └── results_first_differences.csv ← First differences experiment results
