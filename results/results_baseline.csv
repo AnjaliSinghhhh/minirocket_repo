@@ -1,0 +1,9 @@
+Dataset,Accuracy_%,Time_s,Train_size,Test_size
+GunPoint,99.33,0.0785,50,150
+ItalyPowerDemand,96.4,0.2166,67,1029
+ArrowHead,86.29,0.1438,36,175
+Coffee,100.0,0.0614,28,28
+Beef,83.33,0.0878,30,30
+ECG200,92.0,0.215,100,100
+SonyAIBORobotSurface1,90.18,0.0977,20,601
+ToeSegmentation1,95.61,0.1224,40,228

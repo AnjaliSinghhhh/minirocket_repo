@@ -1,0 +1,4 @@
+Classifier,Accuracy_%,Time_s
+RidgeClassifierCV,99.33,0.0109
+LogisticRegression,99.33,0.7425
+RandomForest_100,96.0,0.206

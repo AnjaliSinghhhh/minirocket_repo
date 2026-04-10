@@ -1,0 +1,9 @@
+Dataset,Baseline_%,With_Diff_%,Change_%
+GunPoint,99.33,100.0,0.67
+ItalyPowerDemand,96.6,96.7,0.1
+ArrowHead,86.86,85.71,-1.14
+Coffee,100.0,100.0,0.0
+Beef,83.33,76.67,-6.67
+ECG200,92.0,92.0,0.0
+SonyAIBORobotSurface1,89.35,91.01,1.66
+ToeSegmentation1,96.05,95.61,-0.44

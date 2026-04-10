@@ -1,0 +1,8 @@
+{
+  "mean_accuracy": 92.89,
+  "total_time_8_datasets": 1.02,
+  "datasets_tested": 8,
+  "best_dataset": "Coffee (100.00%)",
+  "paper": "MiniRocket KDD 2021",
+  "reproduced_by": "Your Name Here"
+}
