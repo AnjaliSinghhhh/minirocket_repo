@@ -113,10 +113,16 @@ small training sets.
 
 ---
 
-##  Key Figures
+## 📈 Key Figures
 
-### Figure 1 — Baseline Accuracy
+### GunPoint — Sample Time Series Signals
+![GunPoint Signals](figures/gunpoint_signals.png)
+
+### Figure 1 — Baseline Accuracy Across 8 Datasets
 ![Baseline](figures/fig1_baseline.png)
+
+### GunPoint — Confusion Matrix
+![Confusion Matrix](figures/confusion_matrix.png)
 
 ### Figure 2 — Effect of Feature Count
 ![Kernels](figures/fig2_kernels.png)
@@ -126,9 +132,6 @@ small training sets.
 
 ### Figure 4 — Classifier Comparison
 ![Classifiers](figures/fig4_classifiers.png)
-
----
-
 ##  References
 
 - Dempster, A., Schmidt, D.F., Webb, G.I. (2021). MiniRocket: A Very Fast 
